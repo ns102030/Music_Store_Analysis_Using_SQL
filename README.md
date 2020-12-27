@@ -1,4 +1,4 @@
-# Music_Store_Analysis_Using_SQL
+# Music Store Analysis Using SQL
 Repository for Analysis of Music Store Data.
 
 ### Using SQL queries to do a complex analysis of Music Store tables.
