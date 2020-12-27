@@ -24,7 +24,7 @@ We will be using this diagram in order to help visualize the various joins neede
 <img src="Images/DBD.png" width= "500"/>
 
 ### Loading in the database:
-<img src="Images/Image1.png" width= "500"/>
+<img src="Images/Image1.png" width= "600"/>
 
 
 
