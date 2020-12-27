@@ -26,7 +26,7 @@ We will be using this diagram in order to help visualize the various joins neede
 ### I. Loading in the database:
 <img src="Images/Image1.png" width= "700"/>
 <img src="Images/Image2.png" width= "700"/>
-#### Testing tables to see if they were loaded in properly:
+Testing tables to see if they were loaded in properly:
 
 <img src="Images/Image3.png" width= "700"/>
 <img src="Images/Image4.png" width= "700"/>
