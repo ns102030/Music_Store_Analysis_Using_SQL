@@ -20,7 +20,11 @@ Repository for Analysis of Music Store Data.
 [chinook.db](https://github.com/ns102030/Music_Store_Analysis_Using_SQL/blob/main/Music%20Store%20Database%20Analysis%20Using%20SQL/chinook.db)
 
 ## Database diagram:
-<img src="Images/DBD.png">
+We will be using this diagram in order to help visualize the various joins needed to create the queries to answer our questions.
+<img src="Images/DBD.png" width= "500"/>
+
+#### Loading in the database
+<img src="Images/Image1.png" width= "500"/>
 
 
 
