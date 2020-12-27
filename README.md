@@ -20,7 +20,7 @@ Repository for Analysis of Music Store Data.
 [chinook.db](https://github.com/ns102030/Music_Store_Analysis_Using_SQL/blob/main/Music%20Store%20Database%20Analysis%20Using%20SQL/chinook.db)
 
 ## Database diagram:
-We will be using this diagram in order to help visualize the various joins needed to create the queries to answer our questions.
+We will be using this diagram in order to help visualize the various joins needed to create the queries to answer our questions. The highlighted cells represent the primary keys of each table. The lines connect the foreign keys of a table to the matching column in the other table.
 <img src="Images/DBD.png" width= "500"/>
 
 ### Loading in the database:
