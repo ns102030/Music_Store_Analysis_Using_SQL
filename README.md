@@ -21,7 +21,7 @@ Repository for Analysis of Music Store Data.
 
 ## Database diagram:
 <img src="Images/DBD.png" width= "500"/>
-<img src="drawing.jpg" alt="drawing" width="200"/>
+We will be using this diagram in order to help visualize the various joins needed to create the queries to answer our questions.
 
 
 
