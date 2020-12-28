@@ -51,7 +51,8 @@ Testing tables to see if they were loaded in properly:
 <img src="Images/Image12.png" width= "700"/>
 <img src="Images/Image13.png" width= "700"/>
 <img src="Images/Image14.png" width= "700"/>
-<img src="Images/Image15.png" width= "700"/>
+
+### Most Common Artist in Playlists
 <img src="Images/Image16.png" width= "700"/>
 <img src="Images/Image17.png" width= "700"/>
 <img src="Images/Image18.png" width= "700"/>
