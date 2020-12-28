@@ -39,8 +39,9 @@ Testing tables to see if they were loaded in properly:
 ### Sales by Employee
 <img src="Images/Image6.png" width= "700"/>
 
-
+### Aggregating Data by Country
 <img src="Images/Image7.png" width= "700"/>
+
 <img src="Images/Image8.png" width= "700"/>
 <img src="Images/Image9.png" width= "700"/>
 <img src="Images/Image10.png" width= "700"/>
