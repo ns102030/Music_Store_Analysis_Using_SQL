@@ -12,9 +12,9 @@ Repository for Analysis of Music Store Data.
 2. What is the total dollar amount of sales assigned to each sales support agent within the company?
 3. For each country, what are the total number of customers, total value of sales, average value of sales per customer, and average order value?
 4. How many invoices are album purchases? What percent of purchases are album purchases?
-4. Which artist is used in the most playlists?
-6. Is the range of tracks in the store reflective of their sales popularity
-5. Do protected vs. non-protected media types have an effect on popularity?
+5. Which artist is used in the most playlists?
+6. Is the range of tracks in the store reflective of their sales popularity?
+7. Do protected vs. non-protected media types have an effect on popularity?
 
 ## Database used:
 [chinook.db](https://github.com/ns102030/Music_Store_Analysis_Using_SQL/blob/main/Music%20Store%20Database%20Analysis%20Using%20SQL/chinook.db)
@@ -63,12 +63,7 @@ Testing tables to see if they were loaded in properly:
 <img src="Images/Image19.png" width= "700"/>
 <img src="Images/Image20.png" width= "700"/>
 
-### Media Type Effect on Purchase Quantity
+### Effect of Media Type on Purchase Quantity
 <img src="Images/Image21.png" width= "700"/>
 <img src="Images/Image22.png" width= "700"/>
-
-
-
-
-
 
