@@ -44,7 +44,7 @@ The most experienced employee, Jane Peacock, made the most sales.
 
 ### Aggregating Data by Country
 
-Sales data by country. Countries that have only one customer are grouped together under "Other"
+Sales data by country. Countries that have only one customer are grouped together under "Other".
 <img src="Images/Image7.png" width= "700"/>
 
 <img src="Images/Image8.png" width= "700"/>
