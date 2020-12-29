@@ -54,6 +54,8 @@ Testing tables to see if they were loaded in properly:
 
 ### Most Common Artists in Playlists
 <img src="Images/Image16.png" width= "700"/>
+
+### Tracks Purchased vs Not Purchased
 <img src="Images/Image17.png" width= "700"/>
 <img src="Images/Image18.png" width= "700"/>
 <img src="Images/Image19.png" width= "700"/>
