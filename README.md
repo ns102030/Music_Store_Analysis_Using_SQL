@@ -62,6 +62,8 @@ Testing tables to see if they were loaded in properly:
 ### Comparing Purchases to Store Inventory by Genre
 <img src="Images/Image19.png" width= "700"/>
 <img src="Images/Image20.png" width= "700"/>
+
+### Media Type Effect on Purchase Quantity
 <img src="Images/Image21.png" width= "700"/>
 <img src="Images/Image22.png" width= "700"/>
 
