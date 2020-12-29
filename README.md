@@ -58,6 +58,8 @@ Testing tables to see if they were loaded in properly:
 ### Tracks Purchased vs Not Purchased
 <img src="Images/Image17.png" width= "700"/>
 <img src="Images/Image18.png" width= "700"/>
+
+### Comparing Purchases to Store Inventory by Genre
 <img src="Images/Image19.png" width= "700"/>
 <img src="Images/Image20.png" width= "700"/>
 <img src="Images/Image21.png" width= "700"/>
