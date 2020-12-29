@@ -21,6 +21,7 @@ Repository for Analysis of Music Store Data.
 
 ## Database diagram:
 We will be using this diagram in order to help visualize the various joins needed to create the queries to answer our questions. The highlighted cells represent the primary keys of each table. The lines connect the foreign keys of a table to the primary key of the other table.
+
 <img src="Images/DBD.png" width= "500"/>
 
 ### Loading in the database:
