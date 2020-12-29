@@ -38,9 +38,11 @@ Testing tables to see if they were loaded in properly:
 <img src="Images/Image5.png" width= "700"/>
 
 ### Sales by Employee
+The most experienced employee, Jane Peacock, made the most sales. 
 <img src="Images/Image6.png" width= "700"/>
 
 ### Aggregating Data by Country
+Sales data by country. Countries that have only one customer are grouped together under "Other"
 <img src="Images/Image7.png" width= "700"/>
 
 <img src="Images/Image8.png" width= "700"/>
