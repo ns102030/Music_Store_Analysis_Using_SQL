@@ -50,6 +50,8 @@ Sales data by country. Countries that have only one customer are grouped togethe
 <img src="Images/Image8.png" width= "700"/>
 
 ### Album Purchases
+
+Checking to see if a purchase was an album purchase. Calculated the percentage and number of all purchases that were album purchases. 171 purchases comprising 27.9% of all purchases are album purchases.
 <img src="Images/Image9.png" width= "700"/>
 <img src="Images/Image10.png" width= "700"/>
 <img src="Images/Image11.png" width= "700"/>
@@ -58,6 +60,8 @@ Sales data by country. Countries that have only one customer are grouped togethe
 <img src="Images/Image14.png" width= "700"/>
 
 ### Most Common Artists in Playlists
+
+
 <img src="Images/Image16.png" width= "700"/>
 
 ### Tracks Purchased vs Not Purchased
