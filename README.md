@@ -20,6 +20,7 @@ Repository for Analysis of Music Store Data.
 [chinook.db](https://github.com/ns102030/Music_Store_Analysis_Using_SQL/blob/main/Music%20Store%20Database%20Analysis%20Using%20SQL/chinook.db)
 
 ## Database diagram:
+
 We will be using this diagram in order to help visualize the various joins needed to create the queries to answer our questions. The highlighted cells represent the primary keys of each table. The lines connect the foreign keys of a table to the primary key of the other table.
 
 <img src="Images/DBD.png" width= "500"/>
@@ -52,6 +53,7 @@ Sales data by country. Countries that have only one customer are grouped togethe
 ### Album Purchases
 
 Checked to see if a purchase was an album purchase. Calculated the percentage and number of all purchases that were album purchases. 171 purchases comprising 27.9% of all purchases are album purchases.
+
 <img src="Images/Image9.png" width= "700"/>
 <img src="Images/Image10.png" width= "700"/>
 <img src="Images/Image11.png" width= "700"/>
@@ -62,6 +64,7 @@ Checked to see if a purchase was an album purchase. Calculated the percentage an
 ### Most Common Artists in Playlists
 
 Ordered artists by how many playlists they appear in the Playlists table. Eugene Ormandy appears in 7 different playlists.
+
 <img src="Images/Image16.png" width= "700"/>
 
 ### Tracks Purchased vs Not Purchased
@@ -74,6 +77,7 @@ Determined number of tracks purchased within the entire store inventory. Determi
 ### Comparing Purchases to Store Inventory by Genre
 
 Compared purchases by genre to the genre's representation within the store's inventory.
+
 <img src="Images/Image19.png" width= "700"/>
 <img src="Images/Image20.png" width= "700"/>
 
