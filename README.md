@@ -62,8 +62,8 @@ Checked to see if a purchase was an album purchase. Calculated the percentage an
 <img src="Images/Image14.png" width= "700"/>
 
 ### Album Purchases by Genre
-<img src="Images/Image23.png" width= "700"/>
 <img src="Images/Image24.png" width= "700"/>
+<img src="Images/Image23.png" width= "700"/>
 
 
 
